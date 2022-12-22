@@ -1,0 +1,7 @@
+{
+  "url": "https://api.vk.com/method/",
+  "login": "*",
+  "password": "*",
+  "token": "*",
+  "version": "5.131"
+}
