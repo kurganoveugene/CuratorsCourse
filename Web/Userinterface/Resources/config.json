@@ -1,0 +1,6 @@
+{
+  "number_of_random_numbers_for_pass": "4",
+  "number_of_random_letters_for_email": "5",
+  "number_of_random_letters_for_domain": "4",
+  "upload_file_path": "\\Resources\\download.png"
+}

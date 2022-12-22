@@ -1,0 +1,19 @@
+{
+  "BaseUrl": "https://vk.com/",
+  "login": "+375445823534",
+  "password": "7GHAJjgks8glj",
+  "token": "vk1.a.qDIyFhR_dijZXtSx4wZ49iinLhl2bMp0K6bf3kpsVpe0gI2BnlS6ZSlO0Hggua5-FRjoHwqL7ociiniCMsdyxxsXa8Eyx4GgYNo2ArS-F7OFmIqy1N1qAFbo0a4ozLJNvvKbmE9xoOIN9vsHzC2pGj8BYhahXDUx7FIrgmUhv5N0j5V03OO_6PVxkmEESny4",
+  "numberOfRandomCharsForStringOnTheWall": 10,
+  "numberOfRandomCharsForStringInComments": 6,
+  "upload_file_path": "\\Resources\\Image.png",
+  "client_API_url": "https://api.vk.com/method/",
+  "API_version": "5.131",
+  "owner_id": "736399486",
+  "route_wall_post": "wall.post?",
+  "route_get_adress_for_photo": "photos.getWallUploadServer?",
+  "route_for_save_photo": "photos.saveWallPhoto?",
+  "route_for_edit_post": "wall.edit?",
+  "route_for_comment": "wall.createComment?",
+  "route_for_like": "likes.isLiked",
+  "route_for_detele": "wall.delete?"
+}
