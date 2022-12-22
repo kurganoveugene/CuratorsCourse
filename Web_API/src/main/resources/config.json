@@ -1,0 +1,18 @@
+{
+  "baseURL": "https://vk.com/",
+  "APIRequestUrl" : "https://api.vk.com/method/",
+  "emailOrPhone" : "+375291660762",
+  "password" : "PuV6j_.2&$m9h?UYY",
+  "accessToken" : "df863743c9822f33e3541fc264d47d630f1026d5b380609900870a24c2f69bd1b653b0cbfc88bea47ca88",
+  "userID" : "627657327",
+  "id" : "id",
+  "keyPhoto" : "photo",
+  "version" : "5.131",
+  "type" : "post",
+  "fileSuffix" : "jpeg",
+  "pathToFile" : "src\\main\\resources\\",
+  "fileName" : "pic.jpg",
+  "jsonArrayName" : "response",
+  "id" : "id",
+  "dataPhotoId" : "data-photo-id"
+}
