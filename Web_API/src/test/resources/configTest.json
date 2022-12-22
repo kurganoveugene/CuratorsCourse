@@ -1,0 +1,5 @@
+{
+  "minLengthRandomString": 3,
+  "maxLengthRandomString": 10,
+  "filePath": "src/test/java/image/45.jpg"
+}
