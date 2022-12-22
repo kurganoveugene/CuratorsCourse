@@ -1,0 +1,8 @@
+{
+    "url": "https://vk.com",
+    "timeout": 5000,
+    "filepath": "C://sample.jpeg",
+    "filename": "sample.jpeg",
+    "typeFile": "photo",
+    "authorName": "Иван Иванов"
+}
