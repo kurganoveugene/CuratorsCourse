@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <test name="SeleniumWD">
+        <classes>
+            <class name="tests.UserinyerfaceTest">
+                <methods>
+                    <include name="formsTest"/>
+                    <include name="hideFormHelp_version1_By_Js"/>
+                    <include name="hideFormHelp_version2_By_Selenium"/>
+                    <include name="acceptCoockies"/>
+                    <include name="timerStartZero"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
