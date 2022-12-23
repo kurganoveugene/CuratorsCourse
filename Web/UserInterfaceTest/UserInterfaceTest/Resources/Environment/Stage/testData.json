@@ -1,0 +1,7 @@
+{
+  "startTime": "00:00:00",
+  "maxLoginLength": "10",
+  "minLoginLength": "5",
+  "maxPasswordLength": "20",
+  "minPasswordLength": "10"
+}

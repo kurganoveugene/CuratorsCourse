@@ -1,0 +1,7 @@
+{
+  "post": "method/wall.post",
+  "edit": "method/wall.edit",
+  "commentPost": "method/wall.createComment",
+  "isPostLiked": "method/likes.isLiked",
+  "deletePost": "method/wall.delete"
+}
