@@ -1,0 +1,13 @@
+{
+  "seleniumStartUrl": "https://vk.com/",
+  "unirestStartUrl": "https://api.vk.com/method/",
+  "wallPost": "wall.post?",
+  "wallEdit": "wall.edit?",
+  "wallCreateComment": "wall.createComment",
+  "wallDelete": "wall.delete",
+  "photosGetWallUploadServer": "photos.getWallUploadServer",
+  "photosSaveWallPhoto": "photos.saveWallPhoto",
+  "getLikesList": "likes.getList",
+  "typeOfUploadFile": "photo",
+  "typeOfLike": "comment"
+}
